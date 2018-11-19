@@ -1,6 +1,6 @@
 # GMIT-PROJ-52446----FUNDAMENTALS-OF-DATA-ANALYSIS
 
-## This is the project suubmission for GMIT Module 52446.
+## This is the project submission for GMIT Module 52446.
 
 ### Files in this repository were written in JUPYTER notebook.
 
