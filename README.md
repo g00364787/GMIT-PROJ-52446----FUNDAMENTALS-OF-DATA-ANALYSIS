@@ -20,5 +20,12 @@ Also in this repository are older versions of the project
 09 . . GMIT-FUND-D-A-PROJECT--20181118f.ipynb 	 	= Jupyter Notebook file   
 10 . . GMIT-FUND-D-A-PROJECT--20181119a.ipynb 	 	= Jupyter Notebook file   
 
-
+Other supporting files present
+ 	image file = fund-d-a-boxplot-tapered.png 	
+	image file = fund-d-a-example-of-sleep-multi-boxplots.png 	
+	image file = fund-d-a-image05.png 	
+	image file = fund-d-a-pic-of-tukey.png 	
+	image file = fund-d-a-sleep-times.png 	
+	image file = fund-d-a-tukey-example-of-boxplot.png
+  
 The file with the highest date and version letter is the latest version.   
